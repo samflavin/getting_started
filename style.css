@@ -1,7 +1,7 @@
 /* Give your page a fun background color */
 body {background-color: skyblue;}
 /* Make the header and footer a different color from the background */
-p {color: yellow; font-style: italic}
+p {color: purple; font-style: italic}
 
 h1 {color: brown;text-align: center;}
 
