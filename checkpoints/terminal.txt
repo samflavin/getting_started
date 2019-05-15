@@ -19,3 +19,4 @@ To find out if git is tracking the folder.
 # 9 - What does the command 'git add .' do?
 It stages a commit, which means to track changes of files of working folder.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push -u origin master
