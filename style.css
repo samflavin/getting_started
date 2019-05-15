@@ -3,7 +3,10 @@ body {background-color: skyblue;}
 /* Make the header and footer a different color from the background */
 p {color: purple; font-style: italic}
 
-h1 {color: brown;text-align: center;}
+h1 {
+  color: brown;
+  text-align: center;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
